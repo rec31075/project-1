@@ -23,8 +23,8 @@
     border-width: 3px !important;
 }
 
-.font-1 {
+#font-1 {
     font-family: "Old Standard TT", serif;
-    font-weight: 400;
+    font-weight: 500;
     font-style: normal;
 }
