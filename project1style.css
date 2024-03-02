@@ -1,0 +1,30 @@
+.main-section{
+    height: 100vh;
+    width: 100vw;
+}
+
+.bg-primary{
+    background-color: #004953 !important;
+}
+
+.bg-secondary{
+    background-color: #FFFACD !important;
+}
+
+.bg-light{
+    background-color: #848482 !important;
+}
+
+.bg-dark{
+    background-color: #002626 !important;
+}
+
+.border-3{
+    border-width: 3px !important;
+}
+
+.font-1 {
+    font-family: "Old Standard TT", serif;
+    font-weight: 400;
+    font-style: normal;
+}
