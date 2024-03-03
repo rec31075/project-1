@@ -137,3 +137,24 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+.iframe {
+    padding: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact-content {
+    width: 700px;
+    height: 250px;
+    font-size: 25px;
+    margin-top: 75px;
+    border-radius: 15px;
+    background-color: #FFFACD;
+    border-color: #002626;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
